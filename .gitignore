@@ -1,0 +1,12 @@
+.idea
+tmp
+Results
+dos.in
+*.traj
+*.png
+*.pwi
+*.pwo
+*.json
+*.csv
+
+
